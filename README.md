@@ -10,11 +10,12 @@ Kullanıcı:
 Ad: user
 Şifre: userpass
 
---------------------------------------------------------------------------------------
 
 Yönetici:
 Ad: admin
 Şifre: adminpass
+
+--------------------------------------------------------------------------------------
 
 MongoDB yönetim paneli için ise gerektiği durumlarda kullanılmak üzere aşağıdaki kullanıcı tanımlıdır; 
 
