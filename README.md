@@ -16,6 +16,11 @@ Yönetici:
 Ad: admin
 Şifre: adminpass
 
+MongoDB yönetim paneli için ise gerektiği durumlarda kullanılmak üzere aşağıdaki kullanıcı tanımlıdır; 
+
+Adı: admin
+Şifre: 1234
+
 ## Frontend
 ``cd ./frontend``
 
